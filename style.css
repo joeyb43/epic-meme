@@ -6,7 +6,8 @@ html{
 #meme{
     text-align: center;
     width: 50%;
-    margin: 5% 25%;
+    margin-top: 100px;
+    margin-left: 25%;
 }
 
 #cave-guy{
