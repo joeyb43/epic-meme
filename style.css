@@ -5,15 +5,13 @@ html{
 
 #meme{
     text-align: center;
-    width: 50%;
-    margin-top: 100px;
-    margin-left: 25%;
+    width: 600px;
+    margin: auto;
 }
 
 #cave-guy{
     border: 5px solid white;
     width: 100%;
-    height: 400px;
 }
 
 #top-text{
